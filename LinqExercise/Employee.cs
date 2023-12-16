@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LinqExercise
 {
-    internal class Employee
+    public class Employee
     {
         public int Age { get; set; }
         public string FirstName { get; set; }
